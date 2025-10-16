@@ -1,2 +1,2 @@
-# Ml/AI_journey
+# Ml/AI journey
 this repo represents my Journey in applying my Ml/Ai knowledge
